@@ -10,7 +10,6 @@
 				"fish",
 				"gnome-shell-extension-appindicator",
 				"gnome-shell-extension-blur-my-shell",
-				"gnome-shell-extension-dash-to-dock",
 				"gnome-shell-extension-gsconnect",
 				"input-remapper",
 				"libgda-sqlite",
@@ -29,7 +28,6 @@
 				"tmux",
 				"wireguard-tools",
 				"xprop",
-				"yaru-theme",
 				"zsh"
 			],
 			"bluefin-dx": [
